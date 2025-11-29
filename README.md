@@ -42,8 +42,8 @@ This ensures maintainability, scalability, and efficient rendering across all de
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+
 <img src="https://img.shields.io/badge/REST_API-4D8FAC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Shared_Preferences-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/MVC_(Clean_Structure)-blue?style=for-the-badge" />
 
 </div>
@@ -118,9 +118,9 @@ Contributions are welcome!
 
 You can support the project by:
 
-- [Open issues](https://github.com/Flutter-Project-by-Mohammad-Abu-Alhijaa/IdeaVault/issues/new) – Report bugs, request new features, or provide feedback.
-- [Submit pull requests](https://github.com/Flutter-Project-by-Mohammad-Abu-Alhijaa/IdeaVault/compare) – Fork the repo, make changes, and submit a PR for review.
-- [Suggest improvements](https://github.com/Flutter-Project-by-Mohammad-Abu-Alhijaa/IdeaVault/issues/new/choose) – Share ideas or enhancements to make the app better.
+- [Open issues](https://github.com/Flutter-Project-by-Mohammad-Abu-Alhijaa/AtmosScan/issues/new) – Report bugs, request new features, or provide feedback.
+- [Submit pull requests](https://github.com/Flutter-Project-by-Mohammad-Abu-Alhijaa/AtmosScan/compare) – Fork the repo, make changes, and submit a PR for review.
+- [Suggest improvements](https://github.com/Flutter-Project-by-Mohammad-Abu-Alhijaa/AtmosScan/issues/new/choose) – Share ideas or enhancements to make the app better.
 
 ## 📝 License
 
